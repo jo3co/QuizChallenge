@@ -1,0 +1,9 @@
+
+/* Class = "UITextField"; placeholder = "Insert Word"; ObjectID = "38p-Hh-pP1"; */
+"38p-Hh-pP1.placeholder" = "Press Start";
+
+/* Class = "UILabel"; text = "What are all the java keywords ?"; ObjectID = "gLE-Zc-dJU"; */
+"gLE-Zc-dJU.text" = "What are all the java keywords ?";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "haR-fq-ty8"; */
+"haR-fq-ty8.normalTitle" = "Start";
